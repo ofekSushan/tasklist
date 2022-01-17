@@ -65,7 +65,7 @@ function clearall() {
       taskList.removeChild(taskList.firstChild);
     }
   } else {
-    alert('dude nothing there');
+    alert(' no task to delete ');
   }
 }
 
